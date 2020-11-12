@@ -17,6 +17,22 @@ This page will show you common symptoms of COVID-19.
 
 This page displays the current statistics of infected cases within Canada.
 
+![](Screenshots/Prevention.png)
+
+This page displays preventative steps.
+
+![](Screenshots/Quarantine.png)
+
+This page displays proper steps for quarantining.
+
+![](Screenshots/Tested.png)
+
+This page will show you near by places to get tested in your area.
+
+![](Screenshots/Positive.png)
+
+This page will help users who tested positive.
+
 ![](Screenshots/Treatment.png)
 
 This page will eventually display the vaccine for COVID-19.
