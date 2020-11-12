@@ -1,6 +1,8 @@
 # HCI-Assignment-2
 My idea for a COVID-19 application.
 
+https://www.figma.com/file/sDxUp0osBGsqdA8oPLyjWf/Assignment-1?node-id=0%3A1
+
 ![](Screenshots/Start.png)
 
 This image above shows the look of the start screen for my application, very clean and simple.
