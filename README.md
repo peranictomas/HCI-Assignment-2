@@ -54,3 +54,5 @@ New Desirable Functionalities
 4. Consistant colour theme throughout application
 
 5. Location services for near by testing facilities
+
+6. Clicking a UI item does what the user wants it to
