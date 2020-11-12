@@ -45,14 +45,12 @@ The final page displays the updated news about COVID 19 globally.
 
 New Desirable Functionalities
 
-1. Minimal and simple design for elderly
+1. Images and labels for easy navigation on the main screen
 
-2. Images and labels for easy navigation
+2. Notifications for new symptoms, COVID related news, and when a treatment is available
 
-3. Notifications for new symptoms, COVID related news, and when a treatment is available
+3. Location services for near by testing facilities
 
-4. Consistant colour theme throughout application
+4. Global and local COVID related news
 
-5. Location services for near by testing facilities
-
-6. Clicking a UI item does what the user wants it to
+5. Both male and female statistics for COVID infections.
